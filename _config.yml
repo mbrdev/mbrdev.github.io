@@ -28,7 +28,7 @@ twitter_username: mbrdevuk
 github_username:  mbrdev
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
